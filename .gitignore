@@ -1,0 +1,14 @@
+testing/
+__pycache__/
+.idea/
+venv
+.env
+*.db
+*.log
+*.ini
+
+# Packaging
+build/
+dist/
+*.egg-info/
+*.egg
